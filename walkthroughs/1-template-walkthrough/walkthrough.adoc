@@ -1,6 +1,8 @@
-= Template Walkthrough
+= My first Walkthrough
 
-// This is a template meant to be used as a starting point for walkthrough development
+This is a template meant to be used as a starting point for walkthrough development
+
+This is some extra information.
 
 [time=5]
 == Task
